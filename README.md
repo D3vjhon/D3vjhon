@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+##**Sobre mí**
 
 <picture> <img align="right" src="https://github.com/D3vjhon.png" width = "220px" style="border-radius:50%"></picture>
 
