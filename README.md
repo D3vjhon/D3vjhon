@@ -43,8 +43,8 @@
 ### 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=D3vjhon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3vjhon&layout=compact&theme=tokyonight&langs_count=6" />
 </p>
 
 ---
