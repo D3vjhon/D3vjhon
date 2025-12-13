@@ -95,10 +95,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3vjhon&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=86400" width="375" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D3vjhon&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
