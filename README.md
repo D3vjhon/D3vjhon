@@ -1,24 +1,39 @@
 <h1 align="center"><b>¡Hola! Soy Jhonatan Rodríguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D2FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer..;Ingeniero+en+Ciberseguridad..;Vivo+para+la+programación..;Especialista+en+React+Ecosystem.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D2FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer..;Viviendo+para+la+programación..;Especialista+en+React+Ecosystem..;Apasionado+por+el+Código+Limpio.."></a>
 </p>
 
 <br>
 
-##**Sobre mí**
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> **Sobre mí**
 
-<picture> <img align="right" src="https://github.com/D3vjhon.png" width = "220px" style="border-radius:50%"></picture>
+<picture> <img align="right" src="https://github.com/D3vjhon.png" width = "210px" style="border-radius:50%; border: 2px solid #00D2FF;"></picture>
 
 <br>
 
-- 🎓 **Graduado de Ingeniería en Ciberseguridad**.
 - 📍 Resido en **Cuba** 🇨🇺.
 - 💻 Un joven con muchas ganas de desarrollar software interesante que aporte conocimiento. 
-- 🔒 Mi enfoque une la **seguridad informática** con un desarrollo **Frontend** sólido y moderno.
-- 📄 [Mira mi CV aquí](https://drive.google.com/file/d/146rlqVdJNLCDLzztBYLvf5O0jBVouEcC/view?usp=drive_link)
+- 🔒 Mi enfoque une el desarrollo **Frontend** sólido y moderno con principios de seguridad informática.
+- 📄 [**Explora mi CV aquí**](https://drive.google.com/file/d/146rlqVdJNLCDLzztBYLvf5O0jBVouEcC/view?usp=drive_link)
 
-<br><br>
+<br>
+
+## 🎓 **Educación**
+
+<table>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Grado-Ingeniería-blue?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Grado" />
+    </td>
+    <td>
+      <b>Ingeniería en Ciberseguridad</b> <br>
+      <i>Formación especializada en protección de datos y sistemas seguros.</i>
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -80,8 +95,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3vjhon&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=86400" width="375" />
 </div>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D3vjhon&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
+---
 
 ## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
