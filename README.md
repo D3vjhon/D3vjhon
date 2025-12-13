@@ -75,13 +75,17 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D3vjhon&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=00D2FF&icon_color=00D2FF&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3vjhon&show_icons=true&locale=en&layout=compact&line_height=20&title_color=00D2FF&icon_color=00D2FF&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" />
+  <img src="https://github-readme-stats.vercel.app/api?username=D3vjhon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" width="450"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3vjhon&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=86400" width="375" />
 </div>
 
-<br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D3vjhon&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
+
 
 ## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
