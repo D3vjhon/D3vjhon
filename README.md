@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Jhonatan%20Rodríguez&fontSize=70&animation=fadeIn" width="100%" />
 
-  <h2>🚀 Frontend Developer | Transformando ideas en código</h2>
+  <h2>🚀 Frontend Developer</h2>
 
   <p align="center">
-    <a href="https://github.com/tu-usuario">
+    <a href="https://github.com/D3vjhon">
       <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-green?style=for-the-badge" alt="Status">
     </a>
   </p>
