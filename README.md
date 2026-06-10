@@ -1,33 +1,58 @@
-<h1 align="center"><b>¡Hola! Soy Jhonatan Rodríguez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:7B2FBE&height=200&section=header&text=D3vjhon&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38" />
+</div>
+
+<h1 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  ¡Hola! Soy Jhonatan Rodríguez
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D2FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Frontend+Developer..;Viviendo+para+la+programación..;Especialista+en+React+Ecosystem..;Apasionado+por+el+Código+Limpio.."></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D2FF&center=true&vCenter=true&random=false&width=600&height=60&lines=Frontend+Developer;React+Ecosystem+Specialist;Cybersecurity+Engineer;Clean+Code+Advocate" alt="Typing SVG">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=D3vjhon&label=Visitas&color=00D2FF&style=flat" alt="visitor counter">
+  <img src="https://img.shields.io/github/followers/D3vjhon?label=Followers&style=social" alt="followers">
+  <img src="https://img.shields.io/github/stars/D3vjhon?label=Stars&style=social" alt="stars">
 </p>
 
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px"> **Sobre mí**
+<!-- Sobre mí -->
+<h2>
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40">
+  Sobre mí
+</h2>
 
-<picture> <img align="right" src="https://github.com/D3vjhon.png" width = "210px" style="border-radius:50%; border: 2px solid #00D2FF;"></picture>
-
-<br>
-
-- 📍 Resido en **Cuba** 🇨🇺.
-- 💻 Un joven con muchas ganas de desarrollar software interesante que aporte conocimiento. 
-- 🔒 Mi enfoque une el desarrollo **Frontend** sólido y moderno con principios de seguridad informática.
-- 📄 [**Explora mi CV aquí**](https://drive.google.com/file/d/1G7kyRK1-UGSg4ljEaLE4BrcNcEDk9Ego/view?usp=drive_link)
+<img align="right" src="https://github.com/D3vjhon.png" width="200" style="border-radius: 50%; border: 3px solid #00D2FF;">
 
 <br>
 
-## 🎓 **Educación**
+- 🔭 Actualmente trabajando en proyectos **Frontend** con **React & Next.js**
+- 🌱 Aprendiendo **Ciberseguridad** y **Arquitectura de Software**
+- 👯 Busco colaborar en proyectos **open-source**
+- 💬 Pregúntame sobre **React, TypeScript, TailwindCSS**
+- 📍 Resido en **Cuba** 🇨🇺
+- ⚡ Dato curioso: **La consola me quiere más que a ti** 💻😂
+- 📄 [**Mi CV**](https://drive.google.com/file/d/1G7kyRK1-UGSg4ljEaLE4BrcNcEDk9Ego/view?usp=drive_link)
+
+<br>
+<br>
+
+<!-- Education -->
+<h2>🎓 Educación</h2>
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <img src="https://img.shields.io/badge/Grado-Ingeniería-blue?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Grado" />
     </td>
     <td>
-      <b>Ingeniería en Ciberseguridad</b> <br>
+      <b>Ingeniería en Ciberseguridad</b><br>
       <i>Formación especializada en protección de datos y sistemas seguros.</i>
     </td>
   </tr>
@@ -35,81 +60,183 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width ="25"><b> Stack & Skills</b>
-<br>
-
-<p align="center">
-
-- **Lenguajes**:
-    ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-    ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-    ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-<br>   
-    
-- **Front-End (React Ecosystem)**:
-   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-   ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-   ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
-   ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+<!-- Tech Stack -->
+<h2>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25">
+  Stack & Skills
+</h2>
 
 <br>
-
-- **Forms & Validation**:
-   ![React Hook Form](https://img.shields.io/badge/Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-   ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-   ![Formik](https://img.shields.io/badge/Formik-172B4D?style=for-the-badge&logo=formik&logoColor=white)
-   ![Yup](https://img.shields.io/badge/Yup-F7DF1E?style=for-the-badge&logo=yup&logoColor=black)
-
-<br>
-
-- **UI Frameworks**:
-   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-   ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-   ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
-
-<br>
-
-- **Back-End & Tools**:
-    ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-    ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-    ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-    ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-
-</p>
-
-<br>
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Estadísticas de GitHub </b>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D3vjhon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400" width="450"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3vjhon&show_icons=true&locale=en&layout=compact&theme=tokyonight&cache_seconds=86400" width="375" />
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5">
+        <br>HTML5
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3">
+        <br>CSS3
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript">
+        <br>JavaScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript">
+        <br>TypeScript
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=python" width="48" alt="Python">
+        <br>Python
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=react" width="48" alt="React">
+        <br>React
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" alt="Next.js">
+        <br>Next.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redux" width="48" alt="Redux">
+        <br>Redux
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="TailwindCSS">
+        <br>TailwindCSS
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=materialui" width="48" alt="Material UI">
+        <br>Material UI
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js">
+        <br>Node.js
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=django" width="48" alt="Django">
+        <br>Django
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase">
+        <br>Supabase
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="48" alt="Git">
+        <br>Git
+      </td>
+      <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma">
+        <br>Figma
+      </td>
+    </tr>
+  </table>
 </div>
 
----
-
-## <b> ¡Conectemos! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
-<div align='left'>
+
+<!-- Forms & Tools -->
+<details>
+  <summary><b>📋 Forms & Validation</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" />
+    <img src="https://img.shields.io/badge/Formik-172B4D?style=for-the-badge&logo=formik&logoColor=white" />
+    <img src="https://img.shields.io/badge/Yup-F7DF1E?style=for-the-badge&logo=yup&logoColor=black" />
+  </p>
+</details>
+
+<details>
+  <summary><b>🛠️ Otras herramientas</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
+    <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
+</details>
+
+<br>
+<br>
+
+<!-- Snake -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3vjhon/D3vjhon/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3vjhon/D3vjhon/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/D3vjhon/D3vjhon/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<!-- Stats -->
+<h2>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
+  Estadísticas de GitHub
+</h2>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=D3vjhon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" width="450">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=D3vjhon&theme=tokyonight&border_radius=10" width="450">
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3vjhon&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10" width="400">
+</div>
+
+<br>
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=D3vjhon&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies">
+</div>
+
+<br>
+
+<!-- Projects -->
+<h2>📌 Proyectos Destacados</h2>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/D3vjhon/D3vjhon">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=D3vjhon&repo=D3vjhon&theme=tokyonight&border_radius=10" />
+  </a>
+</div>
+
+<br>
+
+<!-- Connect -->
+<h2>🤝 Conectemos</h2>
+
+<br>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/jhon-cambara-a7205b304" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/d3vjhon" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://facebook.com/d3vjhon" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:jhonatan@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:00D2FF&height=120&section=footer" />
+</div>
