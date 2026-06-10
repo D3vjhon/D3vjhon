@@ -17,7 +17,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=D3vjhon&label=Visitas&color=00D2FF&style=flat" alt="visitor counter">
   <img src="https://img.shields.io/github/followers/D3vjhon?label=Followers&style=social" alt="followers">
-  <img src="https://img.shields.io/github/stars/D3vjhon?label=Stars&style=social" alt="stars">
+
 </p>
 
 <br>
@@ -176,7 +176,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=D3vjhon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=D3vjhon&show_icons=true&theme=tokyonight&border_radius=10&cache_seconds=86400" width="450">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=D3vjhon&theme=tokyonight&border_radius=10" width="450">
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=D3vjhon&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=10" width="400">
@@ -186,7 +186,7 @@
 
 <!-- Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=D3vjhon&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=D3vjhon&theme=tokyonight&no-frame=true" alt="Trophies">
 </div>
 
 <br>
@@ -206,7 +206,7 @@
   <a href="https://facebook.com/d3vjhon" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="mailto:jhonatan@email.com" target="_blank">
+  <a href="mailto:d3v3loperjh0n@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
