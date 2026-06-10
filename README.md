@@ -15,7 +15,7 @@
 - 📍 Resido en **Cuba** 🇨🇺.
 - 💻 Un joven con muchas ganas de desarrollar software interesante que aporte conocimiento. 
 - 🔒 Mi enfoque une el desarrollo **Frontend** sólido y moderno con principios de seguridad informática.
-- 📄 [**Explora mi CV aquí**]([https://drive.google.com/file/d/146rlqVdJNLCDLzztBYLvf5O0jBVouEcC/view?usp=drive_link](https://drive.google.com/file/d/1G7kyRK1-UGSg4ljEaLE4BrcNcEDk9Ego/view?usp=drive_link))
+- 📄 [**Explora mi CV aquí**](https://drive.google.com/file/d/1G7kyRK1-UGSg4ljEaLE4BrcNcEDk9Ego/view?usp=drive_link)
 
 <br>
 
