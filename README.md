@@ -33,7 +33,7 @@
 <br>
 
 - 🔭 Actualmente trabajando en proyectos **Frontend** con **React & Next.js**
-- 🌱 Aprendiendo **Ciberseguridad** y **Arquitectura de Software**
+- 🎓 Ingeniero en **Ciberseguridad**
 - 👯 Busco colaborar en proyectos **open-source**
 - 💬 Pregúntame sobre **React, TypeScript, TailwindCSS**
 - 📍 Resido en **Cuba** 🇨🇺
@@ -167,17 +167,6 @@
 <br>
 <br>
 
-<!-- Snake -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/D3vjhon/D3vjhon/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/D3vjhon/D3vjhon/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/D3vjhon/D3vjhon/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br>
-
 <!-- Stats -->
 <h2>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
@@ -198,19 +187,6 @@
 <!-- Trophies -->
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=D3vjhon&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies">
-</div>
-
-<br>
-
-<!-- Projects -->
-<h2>📌 Proyectos Destacados</h2>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/D3vjhon/D3vjhon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=D3vjhon&repo=D3vjhon&theme=tokyonight&border_radius=10" />
-  </a>
 </div>
 
 <br>
